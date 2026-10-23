@@ -1,0 +1,7 @@
+[book]
+title = "BMC and Out-of-Band Management Security"
+language = "en"
+src = "."
+
+[output.html]
+git-repository-url = "https://github.com/<you>/bmc-out-of-band-security"
